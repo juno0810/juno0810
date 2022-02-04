@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### About Me
-- Blog: [My Blog](https://juno0810.github.io)
 
 ---
 [![juno's github stats](https://github-readme-stats.vercel.app/api?username=juno0810)](https://github.com/juno0810/github-readme-stats)
